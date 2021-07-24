@@ -30,3 +30,9 @@ body {
 .active {
   display: block;
 }
+
+span {
+  color: rgb(106, 124, 139);
+  font-size: 13px;
+  padding-top: 60px;
+}
